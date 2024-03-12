@@ -1,4 +1,5 @@
-# installallpackagetermux
+# install all package termux
+< inggris >
 requires at least 2GB of storage space and internet connection
 
 < Indonesia >
@@ -12,3 +13,6 @@ requiere al menos 2 GB de espacio de almacenamiento y conexión a Internet
 
 < portugis >
 requer pelo menos 2 GB de espaço de armazenamento e conexão com a internet
+
+# Cara Menjalankan
+bash pack.sh
