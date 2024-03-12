@@ -15,4 +15,21 @@ requiere al menos 2 GB de espacio de almacenamiento y conexión a Internet
 requer pelo menos 2 GB de espaço de armazenamento e conexão com a internet
 
 # Cara Menjalankan
+pkg install git
+
+
+
+
+git clone https://github.com/OT4KK0SON9/installallpackagetermux
+
+
+
+cd installallpackagetermux
+
+
+
+
 bash pack.sh
+
+
+
