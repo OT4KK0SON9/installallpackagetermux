@@ -32,6 +32,7 @@ pkg install cowsay
 pkg install toilet
 pkg install neofetch
 pkg install nano
+clear
 echo 
 █▄▄ █▀▀ █▀█ █░█ ▄▀█ █▀ █ █░░   █
 █▄█ ██▄ █▀▄ █▀█ █▀█ ▄█ █ █▄▄   ▄   < Otak Kosong >
