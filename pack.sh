@@ -25,6 +25,16 @@ pkg install ruby
 pkg install tar
 pkg install zphisher
 pkg autoclean
+pkg install ruby
+pkg install figlet
+gem install lolcat
+pkg install cowsay
+pkg install toilet
+pkg install neofetch
+pkg install nano
+echo 
+█▄▄ █▀▀ █▀█ █░█ ▄▀█ █▀ █ █░░   █
+█▄█ ██▄ █▀▄ █▀█ █▀█ ▄█ █ █▄▄   ▄   < Otak Kosong >
 echo Lapor Bug > +6283841852697
 echo Lapor Bug > +6283841852697
 echo Lapor Bug > +6283841852697
